@@ -58,6 +58,7 @@ hi   Underlined        guifg=NONE      guibg=NONE      gui=underline
 
 " Php
 hi   phpType         guifg=#d42aae     guibg=NONE      gui=bold
+hi   phpStructure    guifg=#d42aae     guibg=NONE      gui=NONE
 hi   phpSpecial      guifg=#d42aae     guibg=NONE      gui=bold
 hi   phpInclude      guifg=#d42aae     guibg=NONE      gui=bold
 hi   phpStatement    guifg=#d42aae     guibg=NONE      gui=bold
