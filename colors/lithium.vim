@@ -77,7 +77,11 @@ hi   htmlSpecialChar       guifg=#be64ff   guibg=NONE   gui=NONE
 
 " Javascript
 hi   javaScriptFunction    guifg=#e52de3   guibg=NONE   gui=NONE
+hi   javaScriptStatement   guifg=#e52de3   guibg=NONE   gui=NONE
+hi   javaScriptFuncKeyword guifg=#e52de3   guibg=NONE   gui=NONE
 hi   javaScriptBraces      guifg=NONE      guibg=NONE   gui=NONE
+hi   javaScriptParens      guifg=NONE      guibg=NONE   gui=NONE
+hi   javaScriptFuncArg     guifg=#00a8e6   guibg=NONE   gui=NONE
 
 " Yaml
 hi   yamlKey               guifg=#ffffff   guibg=NONE   gui=NONE
